@@ -38,6 +38,7 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 <h3>9. Tiempo estimado / invertido</h3>
 <b>Tiempo estimado: </b>3.5 horas<br>
 <b>Tiempo invertido: </b>3 horas
+
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
