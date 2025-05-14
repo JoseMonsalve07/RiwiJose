@@ -32,8 +32,8 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 <p>
 - https://lenguajehtml.com/html/introduccion/que-es-html/ <br>
 - https://lenguajecss.com/css/introduccion/que-es-css/ <br> 
-- W3Schools HTML Tutorial
-- W3Schools CSS Tutorial
+- W3Schools HTML Tutorial <br>
+- W3Schools CSS Tutorial <br>
 - ChatGPT</p>
 <!-- git add .
 git commit -m "spike"
