@@ -11,7 +11,7 @@
 <p>- README explicativo con conceptos fundamentales.<br>- Explicación concisa de términos básicos.<br>- Enlaces o bibliografía oficiales y confiables para profundizar.</p>
 <h3>6. Investigación y hallazgos.</h3>
 <p>
-<b>HTML (HyperText Markup Language):</b> Lenguaje de marcado que estructura el contenido de una página web mediante etiquetas como "h1", "p", "img", etc.
+<b><h4>HTML (HyperText Markup Language):<h4></b> Lenguaje de marcado que estructura el contenido de una página web mediante etiquetas como "h1", "p", "img", etc.
 El documento que lee el navegador está escrito en un lenguaje de marcado llamado HTML, que son las siglas de HyperText Markup Language (Lenguaje de marcas de hipertexto), o lo que es lo mismo, un lenguaje de etiquetas que permite incluir o hacer referencia a todo tipo de información.
 
 <b>CSS (Cascading Style Sheets):</b> Lenguaje de hojas de estilo que define la presentación visual (colores, tamaños, márgenes, etc.) del contenido HTML. Se trata de una tecnología utilizada para dotar de cualidades visuales y estéticas a una página web. Las siglas CSS significan «Hojas de estilo en cascada»
