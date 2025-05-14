@@ -20,7 +20,7 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 
 Ejemplo:
 ![Imagen ejemplo HTML]/home/coders/Escritorio/Mslv/imgs/WhatsApp Image 2025-05-14 at 7.50.06 AM.jpeg
-</p>
+</p> 
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
