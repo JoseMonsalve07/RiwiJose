@@ -6,7 +6,7 @@
 <h3>3. Alcance.</h3>
 <p> <b>Incluye</b><br><br>- Definición de HTML.<br>- Definición de CSS.<br>- Cómo HTML y CSS interactúan entre sí.<br><br><b>Excluye</b><br><br>- Definición de otros lenguajes.<br>- Practicas y usos avanzados de HTML y CSS.</p>
 <h3>4. Preguntas a resolver.</h3>
-<p>- Qué es HTML y cuál es su función principal?<br>- Qué es CSS y cuál es su función principal?<br></p>
+<p>- Qué es HTML y cuál es su función principal?<br>- Qué es CSS y cuál es su función principal?<br>- Cómo se enlazan HTML y CSS?</p>
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
