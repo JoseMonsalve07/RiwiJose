@@ -24,9 +24,10 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 ![Imagen ejemplo navegador](WhatsApp%20Image%202025-05-14%20at%207.51.03%20AM.jpeg)
 </p>
 <h3>7. Recomendaciones / Conclusiones</h3>
-<p>•	HTML y CSS son tecnologías complementarias esenciales para cualquier desarrollo web.
-	•	Se recomienda usar hojas de estilo externas para mantener una separación clara entre contenido y presentación.
-	•	Este conocimiento es obligatorio antes de abordar temas más avanzados como diseño responsive o frameworks.</p>
+<p>
+- HTML y CSS se complementan entre sí, son esenciales para cualquier desarrollo web.<br>
+- Es recomendado usar hojas de estilo (CSS) externas o aparte del HTML para mantener una separación clara y un orden entre contenido y presentación.<br>
+- Este conocimiento es obligatorio antes de abordar temas más avanzados como diseño responsive o frameworks.</p>
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
