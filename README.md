@@ -28,6 +28,13 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 - HTML y CSS se complementan entre sí, son esenciales para cualquier desarrollo web.<br>
 - Es recomendado usar hojas de estilo (CSS) externas o aparte del HTML para mantener una separación clara y un orden entre contenido y presentación.<br>
 - Este conocimiento es obligatorio antes de abordar temas más avanzados como diseño responsive o frameworks.</p>
+<h3>8. Referencias</h3>
+<p>
+- https://lenguajehtml.com/html/introduccion/que-es-html/ <br>
+- https://lenguajecss.com/css/introduccion/que-es-css/ <br> 
+- W3Schools HTML Tutorial
+- W3Schools CSS Tutorial
+- ChatGPT</p>
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
