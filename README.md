@@ -22,7 +22,7 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 ![Imagen ejemplo HTML](WhatsApp%20Image%202025-05-14%20at%207.50.06%20AM.jpeg)
 ![Imagen ejemplo CSS](WhatsApp%20Image%202025-05-14%20at%207.50.25%20AM.jpeg)
 ![Imagen ejemplo navegador](WhatsApp%20Image%202025-05-14%20at%207.51.03%20AM.jpeg)
-</p>
+</p><br>
 <h3>7. Recomendaciones / Conclusiones</h3>
 <p>
 - HTML y CSS se complementan entre sí, son esenciales para cualquier desarrollo web.<br>
