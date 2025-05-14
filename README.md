@@ -8,6 +8,7 @@
 <h3>4. Preguntas a resolver.</h3>
 <p>- Qué es HTML y cuál es su función principal?<br>- Qué es CSS y cuál es su función principal?<br>- Cómo se enlazan HTML y CSS?<br>- Estructuras básicas.</p>
 <h3>5. Criterios de aceptación.</h3>
+<p>- README explicativo con conceptos fundamentales.<br>- Explicación concisa de términos básicos.<br>- Enlaces o bibliografía oficiales y confiables para profundizar.</p>
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
