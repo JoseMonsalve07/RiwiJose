@@ -9,6 +9,12 @@
 <p>- Qué es HTML y cuál es su función principal?<br>- Qué es CSS y cuál es su función principal?<br>- Cómo se enlazan HTML y CSS?<br>- Estructuras básicas.</p>
 <h3>5. Criterios de aceptación.</h3>
 <p>- README explicativo con conceptos fundamentales.<br>- Explicación concisa de términos básicos.<br>- Enlaces o bibliografía oficiales y confiables para profundizar.</p>
+<h3>6. Investigación y hallazgos.</h3>
+<p>
+HTML (HyperText Markup Language): Lenguaje de marcado que estructura el contenido de una página web mediante etiquetas como "h1", "p", "img", etc.
+El documento que lee el navegador está escrito en un lenguaje de marcado llamado HTML, que son las siglas de HyperText Markup Language (Lenguaje de marcas de hipertexto), o lo que es lo mismo, un lenguaje de etiquetas que permite incluir o hacer referencia a todo tipo de información.
+
+</p>
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
