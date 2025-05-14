@@ -4,7 +4,7 @@
 <h3>2.  Contexto</h3>
 <p>Se empezará un nuevo módulo, en el cual, HTML y CSS serán dos temas fundamentales. Este spike es realizado con el fin de introducirse en estos dos temas para sentar bases y conocimientos básicos que harán el aprendizaje de la mano del TL mucho mas ameno y sencillo para cada miembro del Team. El fin de este Spike es entender los conceptos básicos del HTML y CSS.</p>
 <h3>3. Alcance</h3>
-<p> <b>Incluye</b><br>- Definición de HTML.<br>- Definición de CSS.<br>- Cómo HTML y CSS trabajan entre sí.</p>
+<p> <b>Incluye</b><br><br>- Definición de HTML.<br>- Definición de CSS.<br>- Cómo HTML y CSS trabajan entre sí.</p>
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
