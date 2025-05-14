@@ -18,11 +18,15 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 
 <b>CSS Y HTML:</b> Una página web es realmente un documento de texto. En dicho documento se escribe código HTML, con el que se que crea el contenido de una web. Por otro lado, existe el código CSS, que unido al código HTML permite darle forma, color, posición (y otras características visuales) a un documento web. HTML define el “qué” y CSS el “cómo se ve”.
 
-<b>EJEMPLO;:</b><br><br>
+<b>EJEMPLO:</b><br><br>
 ![Imagen ejemplo HTML](WhatsApp%20Image%202025-05-14%20at%207.50.06%20AM.jpeg)
 ![Imagen ejemplo CSS](WhatsApp%20Image%202025-05-14%20at%207.50.25%20AM.jpeg)
 ![Imagen ejemplo navegador](WhatsApp%20Image%202025-05-14%20at%207.51.03%20AM.jpeg)
-</p> 
+</p>
+<h3>7. Recomendaciones / Conclusiones</h3>
+<p>•	HTML y CSS son tecnologías complementarias esenciales para cualquier desarrollo web.
+	•	Se recomienda usar hojas de estilo externas para mantener una separación clara entre contenido y presentación.
+	•	Este conocimiento es obligatorio antes de abordar temas más avanzados como diseño responsive o frameworks.</p>
 <!-- git add .
 git commit -m "spike"
 git push origin main -->
