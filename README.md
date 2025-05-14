@@ -14,9 +14,10 @@
 <b>HTML (HyperText Markup Language):</b> Lenguaje de marcado que estructura el contenido de una página web mediante etiquetas como "h1", "p", "img", etc.
 El documento que lee el navegador está escrito en un lenguaje de marcado llamado HTML, que son las siglas de HyperText Markup Language (Lenguaje de marcas de hipertexto), o lo que es lo mismo, un lenguaje de etiquetas que permite incluir o hacer referencia a todo tipo de información.
 
-<b>CSS (Cascading Style Sheets):</b> Lenguaje de hojas de estilo que define la presentación visual (colores, tamaños, márgenes, etc.) del contenido HTML. Se trata de una tecnología utilizada para dotar de cualidades visuales y estéticas a una página web. Las siglas CSS significan «Hojas de estilo en cascada». Se pueden aplicar estilos CSS de tres formas: en línea (style=""), dentro del documento HTML "<style>", o en un archivo externo "<link>". 
+<b>CSS (Cascading Style Sheets):</b> Lenguaje de hojas de estilo que define la presentación visual (colores, tamaños, márgenes, etc.) del contenido HTML. Se trata de una tecnología utilizada para dotar de cualidades visuales y estéticas a una página web. Las siglas CSS significan «Hojas de estilo en cascada». Se pueden aplicar estilos CSS de tres formas: en línea (style=""), dentro del documento HTML "<style>", o en un archivo externo "link". 
 
-<b>CSS Y HTML: </b>
+<b>CSS Y HTML:</b> Una página web es realmente un documento de texto. En dicho documento se escribe código HTML, con el que se que crea el contenido de una web. Por otro lado, existe el código CSS, que unido al código HTML permite darle forma, color, posición (y otras características visuales) a un documento web. HTML define el “qué” y CSS el “cómo se ve”.
+
 </p>
 <!-- git add .
 git commit -m "spike"
