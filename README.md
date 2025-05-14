@@ -18,7 +18,7 @@ El documento que lee el navegador está escrito en un lenguaje de marcado llamad
 
 <b>CSS Y HTML:</b> Una página web es realmente un documento de texto. En dicho documento se escribe código HTML, con el que se que crea el contenido de una web. Por otro lado, existe el código CSS, que unido al código HTML permite darle forma, color, posición (y otras características visuales) a un documento web. HTML define el “qué” y CSS el “cómo se ve”.
 
-Ejemplo:<br>
+<b>EJEMPLO;</b><br><br>
 ![Imagen ejemplo HTML](WhatsApp%20Image%202025-05-14%20at%207.50.06%20AM.jpeg)
 </p> 
 <!-- git add .
